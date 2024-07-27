@@ -34,7 +34,7 @@ The multithreaded bidding system simulates an auction where multiple bidders pla
 ### Prerequisites
 
 - GCC (GNU Compiler Collection)
-- POSIX-compliant operating system (e.g., Linux, macOS)
+- Linux
 
 ### Installation
 
